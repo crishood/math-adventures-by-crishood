@@ -3,6 +3,7 @@ print('Python funciona en este entorno de desarrollo y ahora puedes usar turtle,
 
 from turtle import *
 color('yellow', 'green')
+shape('turtle')
 begin_fill()
 while True:
     forward(200)
