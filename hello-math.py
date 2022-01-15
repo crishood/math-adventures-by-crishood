@@ -1,5 +1,5 @@
 # Welcome to the path 
-print('Python funciona en este entorno de desarrollo, bien jugado Cris')
+print('Python funciona en este entorno de desarrollo y ahora puedes usar turtle, bien jugado Cris')
 
 from turtle import *
 color('yellow', 'green')
