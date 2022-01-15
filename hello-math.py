@@ -2,7 +2,7 @@
 print('Python funciona en este entorno de desarrollo y ahora puedes usar turtle, bien jugado Cris, además de eso acabo de configurar las llaves de seguridad de mi entorno de WSL')
 
 from turtle import *
-color('yellow', 'green')
+color('green', 'green')
 begin_fill()
 while True:
     forward(200)
